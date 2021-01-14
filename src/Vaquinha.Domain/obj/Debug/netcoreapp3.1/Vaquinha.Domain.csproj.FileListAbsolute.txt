@@ -1,0 +1,9 @@
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Pichau\Downloads\dotnet-vaquinha-tests-master\Testes de Unidade e Integrados\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
